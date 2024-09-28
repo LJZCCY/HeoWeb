@@ -932,3 +932,112 @@ span.avatar-name {
     display: none;
   }
 }
+
+.slider0 {
+  margin-top: 30px;
+  width: 100%;
+  max-width: 600px;
+  position: relative;
+  overflow: hidden;
+}
+
+.slides0 {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slides0 img {
+  width: 100%;
+  display: block;
+}
+
+.navigation0 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.navigation0 button {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.slider1 {
+  margin-top: 30px;
+  width: 100%;
+  max-width: 600px;
+  position: relative;
+  overflow: hidden;
+}
+
+.slides1 {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slides1 img {
+  width: 100%;
+  display: block;
+}
+
+.navigation1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.navigation1 button {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.slider2 {
+  margin-top: 30px;
+  width: 100%;
+  max-width: 600px;
+  position: relative;
+  overflow: hidden;
+}
+
+.slides2 {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slides2 img {
+  width: 100%;
+  display: block;
+}
+
+.navigation2 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.navigation2 button {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+video {
+  margin-bottom: 30px; /* 在每个视频下方添加30px的外边距 */
+}
